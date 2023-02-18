@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+body {
+    width: 99vw;
+    height: 97vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("/img/fundo.jpg") no-repeat;
+    background-size: cover;   
+}
+
+
+input {
+  color:#f7f7f7;
+  padding: 10px;
+  outline: none;
+  font-size: 30px;
+  font-family: 'Titillium Web', sans-serif;
+  border-radius: 25%;
+  border-color: white;
+  border-width: 5px;
+  margin: 0.2rem;
+  cursor: pointer;
+  text-shadow: 3px 2px 2px black;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.681);   
+}
+
+h1 {
+    
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.681);
+}
+
+.text {
+    width: 185px;
+    height: 29px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;    
+}
+
+.text1 {
+    width: 24px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.main {
+    display: flex;
+    border: double;
+    border-color: rgb(0, 255, 221);
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 9px 9px 6px rgba(0, 0, 0, 0.949);
+    border-width: 7px;
+    background: radial-gradient(blue, purple);
+}
+
+.maincolor {
+    background-color: #6b6f6c;
+}
+
+.blue {
+    background-color: #0c57d0;
+    padding: 1px;
+}
+
+.pin {
+    background-color: #ff0404;
+}
+
+.gre {
+    background-color: #e6b70c;  
+}
+
+.pur {
+    background-color: #ff6600;
+}
+
+.ora {
+    background-color: #0cd016;
+}
+
+@media (max-width: 600px) {
+   
+        main {
+            display: block;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0px 10%;
+    }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-content: center;
+            background: black url("/img/fundo.jpg") no-repeat;
+            background-position: bottom;
+    }
+}
