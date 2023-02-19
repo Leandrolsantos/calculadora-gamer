@@ -13,7 +13,7 @@ Deploy do projeto:
 ### Objetivo
 Treinar minhas habilidades de HTML, CSS e Javascript.
 ### Desafio
-Compreender a lógica na criação de uma calculadora.
+Compreender a lógica na criação de uma calculadora, pois é mais um passo na compreensão da lógica que envolve o JavaScript com o HTML e CSS. 
 ### Conclusão
 
 ### Ferramentas Utilizadas

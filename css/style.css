@@ -4,10 +4,12 @@ body {
     width: 99vw;
     height: 97vh;
     display: flex;
-    align-items: center;
     justify-content: center;
-    background: url("/img/fundo.jpg") no-repeat;
-    background-size: cover; 
+    background: url(/img/fundo.jpg) no-repeat;
+    background-size: cover;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
 }
 
 input {
@@ -59,6 +61,8 @@ input {
     box-shadow: 9px 9px 6px rgba(0, 0, 0, 0.949);
     border-width: 7px;
     background: radial-gradient(blue, purple);
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #000;
 }
 
 .maincolor {
@@ -84,6 +88,40 @@ input {
 
 .ora {
     background-color: #0cd016;
+}
+
+footer a {
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    color: lightgreen;
+   
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+
+footer p {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(6, 226, 255);
+    padding: -2px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+
+.titulo {
+    font-size: 25px;
+    margin: -1px auto;
+}
+
+.contato {
+    margin: 0 auto;
+    padding: 0 auto;
+    font-size: 1rem;
 }
 
 @media (max-width: 600px) {
