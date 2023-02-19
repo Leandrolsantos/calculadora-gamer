@@ -7,9 +7,8 @@ body {
     align-items: center;
     justify-content: center;
     background: url("/img/fundo.jpg") no-repeat;
-    background-size: cover;   
+    background-size: cover; 
 }
-
 
 input {
   color:#f7f7f7;
@@ -24,10 +23,6 @@ input {
   cursor: pointer;
   text-shadow: 3px 2px 2px black;
   box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.681);   
-}
-
-h1 {
-    
 }
 
 .num {
