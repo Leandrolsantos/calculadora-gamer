@@ -1,12 +1,13 @@
-# Calculadora Gamer (Em construção) 
+# Calculadora Gamer 
 
-Botão (concluído)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-![](./)
+![](./img/calculadorag.gif)
 
-![](./)
+![](./img/calculadora.png)
 
-Deploy do projeto: 
+Deploy do projeto: https://calculadoragamer.netlify.app 
 
 ### Sobre
 É uma calculadora customizada com tema Gamer. 
