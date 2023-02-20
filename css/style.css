@@ -61,7 +61,7 @@ input {
     box-shadow: 9px 9px 6px rgba(0, 0, 0, 0.949);
     border-width: 7px;
     background: radial-gradient(blue, purple);
-    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-width: 1.4px;
     -webkit-text-stroke-color: #000;
 }
 
