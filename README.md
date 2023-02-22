@@ -19,7 +19,7 @@ Treinar minhas habilidades de HTML, CSS e Javascript.
 
 ### Desafio
 
-Compreender a lógica por trás da criação de uma calculadora, para melhorar meu conhecimento entre JavaScript, HTML e CSS.
+Compreender a lógica por trás da criação de uma calculadora, para melhorar meu conhecimento de JavaScript, HTML e CSS.
 
 ### Conclusão
 
